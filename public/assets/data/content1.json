@@ -1,0 +1,33 @@
+{ "siteName": "My Site", 
+"contactEmail": "mvillaflores@myseneca.ca", 
+"phone": "416-123-1234", 
+"mainnav": [ 
+    { "url": "/", 
+    "text": "Waiting on Feature Request | 4238", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": false 
+}, 
+{ 
+    "url": "/", 
+    "text": "Awaiting Customer Response | 1005", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": false 
+}, 
+{ 
+    "url": "/", 
+    "text": "Awaiting Developer Fix | 914", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": false 
+}, 
+{ 
+    "url": "/", 
+    "text": "Pending | 281", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": true 
+}
+] 
+}

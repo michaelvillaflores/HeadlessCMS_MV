@@ -1,0 +1,33 @@
+{ "siteName": "My Site", 
+"contactEmail": "mvillaflores@myseneca.ca", 
+"phone": "416-123-1234", 
+"mainnav": [ 
+    { "url": "/", 
+    "text": "Create new task", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": false 
+}, 
+{ 
+    "url": "/", 
+    "text": "Finish ticket update", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": false 
+}, 
+{ 
+    "url": "/", 
+    "text": "Create new ticket example", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": false 
+}, 
+{ 
+    "url": "/", 
+    "text": "Update ticket report", 
+    "linkId": "link id", 
+    "linkClass": "", 
+    "newTab": true 
+}
+] 
+}
